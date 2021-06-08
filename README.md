@@ -1,11 +1,14 @@
 
+## 수정하면서 공부하려는 목적으로 포크함!
+
+
+---
 # 인공지능을 위한 수학 - 응용편 소스코드
 
 '[인공지능을 위한 수학](https://freelec.co.kr/book/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%88%98%ED%95%99/)'의 응용편 소스코드입니다. 
 일본어 원서의 소스코드를 번역서에 맞게 수정하였습니다. 
 일부 내용은 한국 독자를 위해 책의 내용과 소스코드를 완전히 새로 구성하였습니다.
 
-<img src="https://github.com/freelec/ai-math-book/blob/master/images/cover/cover.jpg" width="50%">
 
 ## 소스 코드 구성
 Python으로 만들어져 있으며 간단한 동작 확인을 Jupyter Notebook에서 확인할 수 있게 만들어졌습니다.
